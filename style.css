@@ -1,0 +1,33 @@
+body{
+    background-color:cadetblue;
+}
+h1.centro {
+    font-size: 250%;
+    text-align: center;
+}
+
+h1.titulo {
+    color: blue;
+    font-size: 250%;
+    text-decoration: underline;
+    background-color: teal;
+}
+p.idioma{
+    color: cornflowerblue;
+    background-color: turquoise;
+    font-size: 150%;
+}
+span{
+    color: dodgerblue;
+}
+em{
+    color: darkblue;
+    font-weight: bold;
+}
+article.color1 {
+background-color: cyan;
+}
+footer{
+    background-color: white;
+    text-align: end;
+}
